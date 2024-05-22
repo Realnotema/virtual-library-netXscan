@@ -1,6 +1,6 @@
 # virtual-library-netXsec
 ## About
-The Netscan Virtual Library is an open source software designed for testing tools for active analysis of information systems. Please do not change the configuration yourself to avoid errors and breakdowns. Made with Docker, Docker-compose and Ansible playbooks. <br/>
+The Netsec Virtual Library is an open source software designed for testing tools for active analysis of information systems. Please do not change the configuration yourself to avoid errors and breakdowns. Made with Docker, Docker-compose and Ansible playbooks. <br/>
 For more information about images and configures read CONFIGS.md
 ## Supported OS
 > [!IMPORTANT]
@@ -8,7 +8,7 @@ For more information about images and configures read CONFIGS.md
 ## Installation
 ### Clone repositories
 ```
-git clone https://github.com/Realnotema/virtual-library-netXscan
+git clone https://github.com/Realnotema/virtual-library-netXsec
 ```
 ### Install packets
 ```
