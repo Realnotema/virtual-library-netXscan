@@ -1,4 +1,4 @@
-# virtual-library-netXscan
+# virtual-library-netXsec
 ## About
 The Netscan Virtual Library is an open source software designed for testing tools for active analysis of information systems. Please do not change the configuration yourself to avoid errors and breakdowns. Made with Docker, Docker-compose and Ansible playbooks. <br/>
 For more information about images and configures read CONFIGS.md
